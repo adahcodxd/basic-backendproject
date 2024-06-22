@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "amritanshu jah",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }

@@ -4,6 +4,7 @@ import connectDB from './db/index.js';
 dotenv.config({
   path: './.env'
 });
+connectDB();
 
 // Now you can use connectDB or any other code that depends on environment variables
 
